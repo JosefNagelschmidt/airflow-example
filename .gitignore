@@ -1,0 +1,11 @@
+plugins/
+logs/
+__pycache__
+minio-db/
+mongo-db/
+raw_data/
+postgres-db/
+.*
+!.gitattributes
+!.gitignore
+!.env

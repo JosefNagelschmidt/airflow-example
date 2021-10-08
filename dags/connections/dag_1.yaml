@@ -1,0 +1,8 @@
+fs_default:
+  conn_type: fs
+  extra: '{"path": "/opt/airflow/raw_data/"}'
+  host: null
+  login: null
+  password: null
+  port: null
+  schema: null
